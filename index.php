@@ -12,7 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
-    <title>Nandita Pareshkumar Amin - Real Estate Agent based in Toronto Canada</title>
+    <title>Nancy Amin - Real Estate Agent based in Toronto Canada</title>
     <link rel="apple-touch-icon" sizes="180x180" href="images/seo/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/">
     <link rel="icon" type="image/png" sizes="16x16" href="images">
@@ -21,11 +21,11 @@
         content="The #1 real estate agent in New York City now offering the only real estate sales course you will ever need." />
     <meta property="og:locale" content="en_CA" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Nandita Pareshkumar Amin- Real Estate Agent based in Toronto Canada" />
+    <meta property="og:title" content="Nancy Amin- Real Estate Agent based in Toronto Canada" />
     <meta property="og:description"
         content="The #1 customer focused real estate agent in Toronto, Canada helping you find your dream home." />
     <meta property="og:url" content="https://nanditaamin.ca/" />
-    <meta property="og:site_name" content="Nandita Pareshkumar Amin" />
+    <meta property="og:site_name" content="Nancy Amin" />
     <meta property="og:image" content="https://nanditaamin.ca/images/profile.png" />
     <meta property="og:image:width" content="1080" />
     <meta property="og:image:height" content="1080" />
@@ -110,7 +110,7 @@
          <div class="row row-cols-1 row-cols-md-2 g-0">
          <div class="col order-1 order-md-2 mt-3 mt-sm-0">
                <div class="text-start position-relative">
-               <img src="images/profile.png" alt="Nandita Pareshkumar Amin" class="img-fluid">
+               <img src="images/profile.png" alt="Nancy Amin" class="img-fluid">
                   <div class="myg bg-white shadow-lg p-3 justify-content-between">
                      <img src="images/social-icons/facebook.svg" alt="facebook icon" class="img-fluid social-icons">
                      <a href="https://www.instagram.com/homesbymilan/" aria-label="Instagram">
@@ -124,9 +124,9 @@
                   </div>
                </div>
             </div>
-         <div class="col order-2 order-md-2">
+         <div class="col order-2 order-md-2 pt-5">
                     <h1 class="pt-5">
-                        <p class="text2 mb-0">Nandita Pareshkumar Amin</p>
+                        <p class="text2 mb-0">Nancy Amin</p>
                     </h1>
                     <h3 class="fs-5 mb-4">helping clients ,
                         <span class="bold-ital"> any day</span> ,
@@ -298,6 +298,121 @@
       </div>
       <img src="images/profile.png" alt="" class="img-fluid imgstand">
    </section>
+   <div class="my-5 py-sm-4"></div>
+   <section class="py-sm-5 haha">
+        <div class="container pt-sm-5">
+            <h2 class="fs-2 fw-bold bordlef ">Some of the top preconstruction projects</h2>
+            <!-- <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
+                <div class="col">
+                    <div class="afte">
+                        <img src="images/detached.jpeg" alt="house-1" class="img-fluid rounded-mine imghei">
+                        <div class="img-text">
+                            <p class="mb-0">Brampton</p>
+                            <p class="mb-0 tet-s">Detached, Semi-Detached & Townhomes</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="afte">
+                        <img src="images/townhomes.jpeg" alt="house-1" class="img-fluid rounded-mine imghei">
+                        <div class="img-text">
+                            <p class="mb-0">North York</p>
+                            <p class="mb-0 tet-s">Beautiful condos near Yonge & Sheppard</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div href="#" class="afte">
+                        <img src="images/semi-detached.jpeg" alt="house-1" class="img-fluid rounded-mine imghei">
+                        <div class="img-text">
+                            <p class="mb-0">Mississauga</p>
+                            <p class="mb-0 tet-s">Affordable condos near Square one</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div href="#" class="afte">
+                        <img src="images/condos.jpeg" alt="house-1" class="img-fluid rounded-mine imghei">
+                        <div class="img-text">
+                            <p class="mb-0">Halton</p>
+                            <p class="mb-0 tet-s">Homes in Oakville, Milton & Burlington</p>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <div class="row row-cols-1 row-cols-md-3 g-4 pt-5">
+                    <div class="col">
+                        <div class="card rounded-mine">
+                            <img src="images/precon projects/city pointe brampton.png" class="card-img-top" alt=" ... ">
+                            <div class="card-body">
+                                <h5 class="card-title fw-bolder">CityPointe Heights</h5>
+                                <h6 class="card-subtitle text-primary pt-2 fw-bold">Low $ 497.99k - High $ 852.99k</h6>
+                                <p class="card-text pt-2 ">The Gore Road & Queen Street East, Brampton, ON </p>
+                                <a href="https://homebaba.ca/brampton/city-pointe-heights" target="_blank" class="stretched-link"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col ">
+                        <div class="card rounded-mine">
+                            <img src="images/precon projects/bristol palace brampton.png" class="card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <h5 class="card-title fw-bolder">Bristol Place</h5>
+                                <h6 class="card-subtitle text-primary pt-2 fw-bold">Starting from low $500k</h6>
+                                <p class="card-text pt-2 ">199 Main Street North, Brampton, Ontario, Canada</p>
+                                <a href="https://homebaba.ca/brampton/bristol-place" target="_blank" class="stretched-link"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col ">
+                        <div class="card rounded-mine">
+                            <img src="images/precon projects/jasper village milton.png " class="card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <h5 class="card-title fw-bolder">Jasper Village</h5>
+                                <h6 class="card-subtitle text-primary pt-2 fw-bold">Low $1.76M - High $1.81M</h6>
+                                <p class="card-text pt-2 ">Louis Saint Laurent Avenue & Savoline Boulevard, Milton, ON</p>
+                                <a href="https://homebaba.ca/milton/jasper-village" target="_blank" class="stretched-link"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row row-cols-1 row-cols-md-3 g-4 pt-5">
+                    <div class="col">
+                        <div class="card rounded-mine">
+                            <img src="images/precon projects/connectt condos milton.png" class="card-img-top" alt=" ... ">
+                            <div class="card-body ">
+                                <h5 class="card-title fw-bolder">Connectt Condos</h5>
+                                <h6 class="card-subtitle text-primary pt-2 fw-bold">Low $486.99k - High $800.99k</h6>
+                                <p class="card-text pt-2 ">Regional Road 25, Milton, Ontario, Canada</p>
+                                <a href="https://homebaba.ca/milton/connectt-condos" target="_blank" class="stretched-link"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col ">
+                        <div class="card rounded-mine">
+                            <img src="images/precon projects/Westwood Village PRESERVE cambridge.png" class="card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <h5 class="card-title fw-bolder">Westwood Village PRESERVE</h5>
+                                <h6 class="card-subtitle text-primary pt-2 fw-bold">Starting from Low $1.2M</h6>
+                                <p class="card-text pt-2 ">93 Newman Drive, Cambridge, ON</p>
+                                <a href="https://homebaba.ca/cambridge/westwood-village-preserve" target="_blank" class="stretched-link"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col ">
+                        <div class="card rounded-mine">
+                            <img src="images/precon projects/The Vineyards cambridge.png " class="card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <h5 class="card-title fw-bolder">The Vineyards</h5>
+                                <h6 class="card-subtitle text-primary pt-2 fw-bold">Starting from Low $749.9k</h6>
+                                <p class="card-text pt-2 ">129 Elgin St N Cambridge, Ontario</p>
+                                <a href="https://homebaba.ca/cambridge/%20the-vineyards" target="_blank" class="stretched-link"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </section>
    <div class=" py-sm-4"></div>
    <div class="my-5 py-3"></div>
    <section class="news-grid grid">
@@ -364,6 +479,10 @@
             </div>
         </div>
     </section>
+
+
+
+    
    <div class="my-5 py-3"></div>
    <div class="contact_part py-5 my-5">
       <div class="row mx-0">
@@ -414,12 +533,12 @@
                   <img src="images/c21_logo.png" alt="" class="img-fluid navbar-lo">
                </a>
                <span class="mx-2"></span>
-               <span class="text-mine">© 2022 Nandita Pareshkumar Amin </span>
+               <span class="text-mine">© 2022 Nancy Amin </span>
             </div>
             <div class="">
                <h5 class="fs-5">
                <span class="mx-5"></span>
-                  <b>Nandita Pareshkumar Amin</b>
+                  <b>Nancy Amin</b>
                </h5>
                <h6>
                <span class="mx-5"></span>

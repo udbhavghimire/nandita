@@ -11,7 +11,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
-    <title>Nandita Pareshkumar Amin - Real Estate Agent based in Toronto Canada</title>
+    <title>Nancy Amin - Real Estate Agent based in Toronto Canada</title>
     <link rel="apple-touch-icon" sizes="180x180" href="images/seo/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/">
     <link rel="icon" type="image/png" sizes="16x16" href="images">
@@ -20,11 +20,11 @@
         content="The #1 real estate agent in New York City now offering the only real estate sales course you will ever need." />
     <meta property="og:locale" content="en_CA" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Nandita Pareshkumar Amin- Real Estate Agent based in Toronto Canada" />
+    <meta property="og:title" content="Nancy Amin- Real Estate Agent based in Toronto Canada" />
     <meta property="og:description"
         content="The #1 customer focused real estate agent in Toronto, Canada helping you find your dream home." />
     <meta property="og:url" content="https://nanditaamin.ca/" />
-    <meta property="og:site_name" content="Nandita Pareshkumar Amin" />
+    <meta property="og:site_name" content="Nancy Amin" />
     <meta property="og:image" content="https://nanditaamin.ca/images/profile.png" />
     <meta property="og:image:width" content="1080" />
     <meta property="og:image:height" content="1080" />
@@ -36,7 +36,7 @@
             <div class="container">
                 <a class="navbar-logo d-flex flex-column flex-md-row align-items-center justify-content-start px-2 px-md-0"
                     href="/">
-                    <h3 class="ms-2 fw-bold f-m"> <span class="d-none d-md-inline">|</span> Nandita Pareshkumar Amin</h3>
+                    <h3 class="ms-2 fw-bold f-m"> <span class="d-none d-md-inline">|</span> Nancy Amin</h3>
                 </a>
                 <a href="tel:647-527-4970" class="btn call-btn d-md-none">
                     <svg width="30" height="30" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -371,12 +371,12 @@
                   <img src="images/c21_logo.png" alt="" class="img-fluid navbar-lo">
                </a>
                <span class="mx-2"></span>
-               <span class="text-mine">© 2022 Nandita Pareshkumar Amin </span>
+               <span class="text-mine">© 2022 Nancy Amin </span>
             </div>
             <div class="">
                <h5 class="fs-5">
                <span class="mx-5"></span>
-                  <b>Nandita Pareshkumar Amin</b>
+                  <b>Nancy Amin</b>
                </h5>
                <h6>
                <span class="mx-5"></span>
