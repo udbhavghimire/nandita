@@ -302,46 +302,74 @@
    <section class="py-sm-5 haha">
         <div class="container pt-sm-5">
             <h2 class="fs-2 fw-bold bordlef ">Some of the top preconstruction projects</h2>
-            <!-- <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 justify-content-center g-4 mt-2">
                 <div class="col">
-                    <div class="afte">
-                        <img src="images/detached.jpeg" alt="house-1" class="img-fluid rounded-mine imghei">
+                    <a  href="https://homebaba.ca/barrie" target="_blank" class="afte">
+                        <img src="images/precon/Barrie.png" alt="house-1" class="img-fluid rounded-mine imghei">
+                        <div class="img-text">
+                            <p class="mb-0">Barrie</p>
+                            <!-- <p class="mb-0 tet-s">Detached, Semi-Detached & Townhomes</p> -->
+                        </div>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="https://homebaba.ca/brampton" target="_blank" class="afte">
+                        <img src="images/precon/brampton.png" alt="house-1" class="img-fluid rounded-mine imghei">
                         <div class="img-text">
                             <p class="mb-0">Brampton</p>
-                            <p class="mb-0 tet-s">Detached, Semi-Detached & Townhomes</p>
+                            <!-- <p class="mb-0 tet-s">Beautiful condos near Yonge & Sheppard</p> -->
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="col">
-                    <div class="afte">
-                        <img src="images/townhomes.jpeg" alt="house-1" class="img-fluid rounded-mine imghei">
+                    <a href="https://homebaba.ca/cambridge" target="_blank" class="afte">
+                        <img src="images/precon/cambridge.png" alt="house-1" class="img-fluid rounded-mine imghei">
                         <div class="img-text">
-                            <p class="mb-0">North York</p>
-                            <p class="mb-0 tet-s">Beautiful condos near Yonge & Sheppard</p>
+                            <p class="mb-0">Cambridge</p>
+                            <!-- <p class="mb-0 tet-s">Affordable condos near Square one</p> -->
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="col">
-                    <div href="#" class="afte">
-                        <img src="images/semi-detached.jpeg" alt="house-1" class="img-fluid rounded-mine imghei">
+                    <a href="https://homebaba.ca/kitchener" target="_blank" class="afte">
+                        <img src="images/precon/kitchener.png" alt="house-1" class="img-fluid rounded-mine imghei">
+                        <div class="img-text">
+                            <p class="mb-0">Kitchener</p>
+                            <!-- <p class="mb-0 tet-s">Homes in Oakville, Milton & Burlington</p> -->
+                        </div>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="https://homebaba.ca/milton" target="_blank" class="afte">
+                        <img src="images/precon/milton.png" alt="house-1" class="img-fluid rounded-mine imghei">
+                        <div class="img-text">
+                            <p class="mb-0">Milton</p>
+                            <!-- <p class="mb-0 tet-s">Homes in Oakville, Milton & Burlington</p> -->
+                        </div>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="https://homebaba.ca/mississauga" target="_blank" class="afte">
+                        <img src="images/precon/mississauga.png" alt="house-1" class="img-fluid rounded-mine imghei">
                         <div class="img-text">
                             <p class="mb-0">Mississauga</p>
-                            <p class="mb-0 tet-s">Affordable condos near Square one</p>
+                            <!-- <p class="mb-0 tet-s">Homes in Oakville, Milton & Burlington</p> -->
                         </div>
-                    </div>
+                    </a>
                 </div>
                 <div class="col">
-                    <div href="#" class="afte">
-                        <img src="images/condos.jpeg" alt="house-1" class="img-fluid rounded-mine imghei">
+                    <a href="https://homebaba.ca/niagara" target="_blank" class="afte">
+                        <img src="images/precon/niagara.png" alt="house-1" class="img-fluid rounded-mine imghei">
                         <div class="img-text">
-                            <p class="mb-0">Halton</p>
-                            <p class="mb-0 tet-s">Homes in Oakville, Milton & Burlington</p>
+                            <p class="mb-0">Niagara</p>
+                            <!-- <p class="mb-0 tet-s">Homes in Oakville, Milton & Burlington</p> -->
                         </div>
-                    </div>
+                    </a>
                 </div>
-            </div> -->
+                
+            </div>
 
-            <div class="row row-cols-1 row-cols-md-3 g-4 pt-5">
+            <!-- <div class="row row-cols-1 row-cols-md-3 g-4 pt-5">
                     <div class="col">
                         <div class="card rounded-mine">
                             <img src="images/precon projects/city pointe brampton.png" class="card-img-top" alt=" ... ">
@@ -410,7 +438,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
         </div>
     </section>
    <div class=" py-sm-4"></div>
